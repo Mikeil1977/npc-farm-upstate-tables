@@ -1,0 +1,68 @@
+{
+  "realm_id": "stonehaven",
+  "turn": 1,
+  "name": "Stonehaven",
+  "lord_name": "Lord Denzil Llewellyn",
+  "description": "Coastal market town with farmland, a working quarry and an old ruined castle on the cliffs.",
+  "hexes": [
+    {
+      "hex": "057:019",
+      "terrain": "Plains",
+      "assets": ["Farm"]
+    },
+    {
+      "hex": "057:020",
+      "terrain": "Hills",
+      "assets": ["Quarry"]
+    },
+    {
+      "hex": "058:020",
+      "terrain": "Plains",
+      "assets": ["Town", "SeatOfPower"]
+    },
+    {
+      "hex": "059:019",
+      "terrain": "Coastal",
+      "assets": ["Jetty"]
+    },
+    {
+      "hex": "059:020",
+      "terrain": "Coastal",
+      "assets": ["CastleRuin"]
+    },
+    {
+      "hex": "058:019",
+      "terrain": "Plains",
+      "assets": []
+    },
+    {
+      "hex": "058:021",
+      "terrain": "Hills",
+      "assets": []
+    }
+  ],
+  "economy": {
+    "totals": {
+      "food": 3,
+      "fish": 0,
+      "ore": 2,
+      "trade": 2,
+      "prosperity": 3,
+      "population": 1,
+      "administration": 1,
+      "stability": 0,
+      "rp_bonus": 1,
+      "op_bonus": 0,
+      "upkeep": 7,
+      "threat": 1
+    },
+    "prosperity_tier": 1,
+    "op_per_turn": 3,
+    "rp_per_turn": 2,
+    "rp_stockpile": 10
+  },
+  "notes": [
+    "SeatOfPower is located in the Town hex.",
+    "CastleRuin represents the old cliffside fortress; generates Threat but no income."
+  ]
+}
