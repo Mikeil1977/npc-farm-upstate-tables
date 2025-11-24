@@ -1,0 +1,55 @@
+{
+  "Plains": [
+    "Farm",
+    "Hamlet",
+    "Town",
+    "SeatOfPower"
+  ],
+  "Grasslands": [
+    "Farm",
+    "Hamlet",
+    "RangerOutpost"
+  ],
+  "Forest": [
+    "LoggingCamp",
+    "RangerOutpost",
+    "Hamlet"
+  ],
+  "Hills": [
+    "Quarry",
+    "HillfortRuins",
+    "RangerOutpost",
+    "Hamlet"
+  ],
+  "Mountains": [
+    "Mine",
+    "RangerOutpost",
+    "HillfortRuins"
+  ],
+  "Coastal": [
+    "Jetty",
+    "FishingVillage",
+    "Lighthouse",
+    "CastleRuin"
+  ],
+  "Sea": [
+    "KelpBeds",
+    "Wreck"
+  ],
+  "Swamp": [
+    "BogHerbalistHut",
+    "Hamlet"
+  ],
+  "Desert": [
+    "Oasis"
+  ],
+  "Taiga": [
+    "TraplineCamp",
+    "RangerOutpost",
+    "Hamlet"
+  ],
+  "RoadOrRiverCrossing": [
+    "BridgeFord",
+    "Hamlet"
+  ]
+}
